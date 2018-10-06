@@ -10,6 +10,7 @@
 ![Imgur](https://i.imgur.com/hgTEb20.png)
 
 ### Features
+HiiHiiHii
 * Export to image
 * Export to SVG
 * Save to localStorage
